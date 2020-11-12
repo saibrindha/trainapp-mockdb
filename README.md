@@ -1,8 +1,10 @@
 # trainapp-mockdb
   ###create new database
+  
     create database trainapp_db;
     
   ###To use create database
+  
     use trainapp_db;
     
   ###To create users table
